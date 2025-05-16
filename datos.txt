@@ -1,0 +1,17 @@
+Desarrollo y Programacion Web - Clientes Web Mobile - Primer Parcial
+DWT4AV - 2025 - Turno Tarde
+Alumno: Santiago Martinez Donde
+Profesor: Santiago Gallino.
+
+
+Usuarios de prueba: 
+
+Usuario 1:
+Ronaldo@test.com
+Ronaldo123
+
+Usuario 2:
+Messi@test.com
+Messi123
+
+
